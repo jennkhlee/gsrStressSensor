@@ -1,14 +1,9 @@
 /* 
-Jenn (Ka Hyun) Lee 
-Professor Leong
-ITGM APPLIED PRINCIPLES: PHYSICAL COMPUTING
-PROJECT A: GALVANIC SKIN RESPONSE (GSR) SENSOR WEARABLE
+GALVANIC SKIN RESPONSE (GSR) SENSOR WEARABLE
 LCD VERSION
 
 This code was my original concept with the Crystal LCD display to notify the user's stress.
-As outlined in my documentation, I ended up not using this code in my final, but the original
-structure of my final program is very similar to this one.
-
+The values of the thresholds can be calibrated for the individual users
 */
 
 #include <LiquidCrystal.h>
