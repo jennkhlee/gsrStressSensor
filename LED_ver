@@ -1,12 +1,9 @@
 /* 
-Jenn (Ka Hyun) Lee 
-Professor Leong
-ITGM APPLIED PRINCIPLES: PHYSICAL COMPUTING
-PROJECT A: GALVANIC SKIN RESPONSE (GSR) SENSOR WEARABLE
-LED VERSION (FINAL)
+GALVANIC SKIN RESPONSE (GSR) SENSOR WEARABLE
+LCD VERSION
 
-This is the final code for my Project A utilizing LEDs to notify the user's stress, instead of my
-original idea with the LCD display.
+This code was my original concept with the Crystal LCD display to notify the user's stress.
+The values of the thresholds can be calibrated for the individual users
 
 */
 
